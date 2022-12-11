@@ -1,0 +1,7 @@
+.item {
+  display: flex;
+  flex-wrap: wrap;
+  padding-right: 50px;
+  justify-content: space-evenly;
+}
+

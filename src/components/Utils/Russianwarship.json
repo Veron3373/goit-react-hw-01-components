@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Personnel units",
+    "numerals": 93760,
+    "icon": "https://russianwarship.rip/images/icons/icon-people.svg"
+  },
+  {
+    "id": 2,
+    "title": "Tanks",
+    "numerals": 2940,
+    "icon": "https://russianwarship.rip/images/icons/icon-tank.svg"
+  },
+  {
+    "id": 3,
+    "title": "Armoured fighting vehicles",
+    "numerals": 5917,
+    "icon": "https://russianwarship.rip/images/icons/icon-bbm.svg"
+  },
+  {
+    "id": 4,
+    "title": "Artillery systems",
+    "numerals": 1927,
+    "icon": "https://russianwarship.rip/images/icons/icon-art.svg"
+  },
+  {
+    "id": 5,
+    "title": "Multiple Launch Rocket System",
+    "numerals": 397,
+    "icon": "https://russianwarship.rip/images/icons/icon-rszv.svg"
+  },
+  {
+    "id": 6,
+    "title": "Anti-aircraft warfare systems",
+    "numerals": 211,
+    "icon": "https://russianwarship.rip/images/icons/icon-ppo.svg"
+  },
+  {
+    "id": 7,
+    "title": "Planes",
+    "numerals": 281,
+    "icon": "https://russianwarship.rip/images/icons/icon-plane.svg"
+  },
+  {
+    "id": 8,
+    "title": "Helicopters",
+    "numerals": 264,
+    "icon": "https://russianwarship.rip/images/icons/icon-helicopter.svg"
+  },
+  {
+    "id": 9,
+    "title": "Vehicles and fuel tanks",
+    "numerals": 4535,
+    "icon": "https://russianwarship.rip/images/icons/icon-auto.svg"
+  },
+  {
+    "id": 10,
+    "title": "Warships and cutters",
+    "numerals": 16,
+    "icon": "https://russianwarship.rip/images/icons/icon-ship.svg"
+  },
+  {
+    "id": 11,
+    "title": "Cruise missiles",
+    "numerals": 592,
+    "icon": "https://russianwarship.rip/images/icons/icon-rocket.svg"
+  },
+  {
+    "id": 12,
+    "title": "Unmanned aerial vehicle systems",
+    "numerals": 1603,
+    "icon": "https://russianwarship.rip/images/icons/icon-bpla.svg"
+  },
+  {
+    "id": 13,
+    "title": "Special military equipment",
+    "numerals": 167,
+    "icon": "https://russianwarship.rip/images/icons/icon-special.svg"
+  },
+  {
+    "id": 14,
+    "title": "Anti-tank guided missile and short-range ballistic missile systems",
+    "numerals": 4,
+    "icon": "https://russianwarship.rip/images/icons/icon-trk.svg"
+  }
+]
